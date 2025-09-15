@@ -1,0 +1,11 @@
+gymnasium==0.29.1
+pettingzoo==1.24.3
+supersuit==3.9.3
+stable-baselines3[extra]==2.3.2
+torch
+numpy
+scipy
+matplotlib
+pandas
+tqdm
+imageio
